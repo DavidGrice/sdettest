@@ -1,6 +1,3 @@
-# sdettest
-SDET takehome
-
 # How To Use
 * Download project into some directory
 * Make sure to have [VSCode](https://code.visualstudio.com/)
