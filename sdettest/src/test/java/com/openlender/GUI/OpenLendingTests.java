@@ -88,5 +88,8 @@ class OpenLendingTests {
 
         // validate hrefs for blog posts are unique
         openLendingActions.validateNoDuplicateBlogPostHrefs();
+
+        // used to close the driver once test ends
+        sharedActions.closeDriver();
     }
 }

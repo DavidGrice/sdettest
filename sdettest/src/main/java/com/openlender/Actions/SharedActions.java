@@ -60,5 +60,12 @@ public class SharedActions {
             }
         }
     }
+
+    /*
+     * closeDriver - close driver once testing is done.
+     */
+    public void closeDriver() {
+        driver.close();
+    }
     
 }
